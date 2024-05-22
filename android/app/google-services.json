@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532992496225",
+    "project_id": "eliamfurniture001",
+    "storage_bucket": "eliamfurniture001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532992496225:android:a5bcf7f281235af45a9020",
+        "android_client_info": {
+          "package_name": "com.example.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXtahfLDICqqS1f7NMwTkPHvVd8MIqcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
